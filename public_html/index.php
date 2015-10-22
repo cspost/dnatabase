@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<h1>Welcome to DNAtabase</h1>
+<h1>Welcome to GenIUS</h1>
 
 
 <form action="search_query.php" method="post">
