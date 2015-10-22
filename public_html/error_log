@@ -1,0 +1,217 @@
+[14-Oct-2015 23:33:40 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/dnatabase/public_html/account.php on line 30
+[14-Oct-2015 23:33:41 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/dnatabase/public_html/account.php on line 30
+[14-Oct-2015 23:33:55 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/dnatabase/public_html/account.php on line 30
+[14-Oct-2015 23:34:47 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/dnatabase/public_html/account.php on line 30
+[14-Oct-2015 23:35:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/Controller/accountController.php on line 17
+[14-Oct-2015 23:35:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/Controller/accountController.php on line 17
+[14-Oct-2015 23:38:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:38:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:38:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:39:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:39:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:40:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:40:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:40:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:40:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 176
+[14-Oct-2015 23:42:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dnatabase/public_html/Controller/accountController.php on line 179
+[14-Oct-2015 23:42:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 177
+[14-Oct-2015 23:42:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 177
+[14-Oct-2015 23:44:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 175
+[14-Oct-2015 23:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 175
+[15-Oct-2015 02:29:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/search_query.php on line 47
+[15-Oct-2015 11:44:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/search_query.php on line 47
+[15-Oct-2015 11:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/search_query.php on line 47
+[15-Oct-2015 11:45:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 47
+[15-Oct-2015 15:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 47
+[15-Oct-2015 15:31:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 47
+[15-Oct-2015 19:18:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/account.php on line 29
+[15-Oct-2015 19:19:16 America/Chicago] PHP Warning:  require(.Entity/userEntity.php): failed to open stream: No such file or directory in /home/dnatabase/public_html/Controller/accountController.php on line 15
+[15-Oct-2015 19:19:16 America/Chicago] PHP Fatal error:  require(): Failed opening required '.Entity/userEntity.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dnatabase/public_html/Controller/accountController.php on line 15
+[15-Oct-2015 19:20:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/dnatabase/public_html/create_account.php on line 19
+[15-Oct-2015 19:28:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/dnatabase/public_html/create_account.php on line 19
+[15-Oct-2015 19:28:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/dnatabase/public_html/create_account.php on line 19
+[15-Oct-2015 19:28:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$gene_symbol' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 25
+[15-Oct-2015 19:30:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$gene_symbol' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 28
+[15-Oct-2015 19:30:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$gene_symbol' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 28
+[15-Oct-2015 19:30:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 28
+[15-Oct-2015 19:30:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 27
+[15-Oct-2015 19:31:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 37
+[15-Oct-2015 19:32:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/dnatabase/public_html/create_account.php on line 37
+[15-Oct-2015 19:33:16 America/Chicago] PHP Warning:  require(.Entity/userEntity.php): failed to open stream: No such file or directory in /home/dnatabase/public_html/create_account.php on line 17
+[15-Oct-2015 19:33:16 America/Chicago] PHP Fatal error:  require(): Failed opening required '.Entity/userEntity.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dnatabase/public_html/create_account.php on line 17
+[15-Oct-2015 19:33:28 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:34:16 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:37:43 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:37:45 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:38:38 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:38:41 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:39:23 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:40:50 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:40:52 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:40:52 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 146
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 146
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 147
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 147
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 148
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 148
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 149
+[15-Oct-2015 19:42:30 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 149
+[15-Oct-2015 19:42:30 America/Chicago] PHP Fatal error:  Call to undefined function PerformQuery() in /home/dnatabase/public_html/Controller/accountController.php on line 152
+[15-Oct-2015 19:44:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE) in /home/dnatabase/public_html/Controller/accountController.php on line 141
+[15-Oct-2015 19:46:58 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:13 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:14 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:17 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:17 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:17 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:37 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:48:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:49:14 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:49:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:49:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:52:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/account.php on line 4
+[15-Oct-2015 19:54:24 America/Chicago] PHP Parse error:  syntax error, unexpected '¬' (T_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 142
+[15-Oct-2015 19:55:50 America/Chicago] PHP Parse error:  syntax error, unexpected '¬' (T_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 142
+[15-Oct-2015 19:56:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 147
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 159
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 159
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 160
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 160
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 161
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 161
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 19:56:54 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 19:56:54 America/Chicago] PHP Fatal error:  Call to undefined function PerformQuery() in /home/dnatabase/public_html/Controller/accountController.php on line 165
+[15-Oct-2015 20:01:40 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/dnatabase/public_html/Controller/accountController.php on line 163
+[15-Oct-2015 20:01:54 America/Chicago] PHP Fatal error:  Call to undefined function PerformQuery() in /home/dnatabase/public_html/Controller/accountController.php on line 163
+[15-Oct-2015 20:02:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 141
+[15-Oct-2015 20:03:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE), expecting function (T_FUNCTION) in /home/dnatabase/public_html/Controller/accountController.php on line 23
+[15-Oct-2015 20:03:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE), expecting function (T_FUNCTION) in /home/dnatabase/public_html/Controller/accountController.php on line 24
+[15-Oct-2015 20:04:36 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 153
+[15-Oct-2015 20:05:33 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 153
+[15-Oct-2015 20:07:24 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 153
+[15-Oct-2015 20:08:32 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 153
+[15-Oct-2015 20:08:53 America/Chicago] PHP Fatal error:  Call to a member function free() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 153
+[15-Oct-2015 20:09:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 130
+[15-Oct-2015 20:09:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:09:10 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/dnatabase/public_html/Controller/accountController.php on line 134
+[15-Oct-2015 20:09:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 135
+[15-Oct-2015 20:10:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 130
+[15-Oct-2015 20:10:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:10:30 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/dnatabase/public_html/Controller/accountController.php on line 134
+[15-Oct-2015 20:10:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 135
+[15-Oct-2015 20:10:32 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 130
+[15-Oct-2015 20:10:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:10:32 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/dnatabase/public_html/Controller/accountController.php on line 134
+[15-Oct-2015 20:10:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 135
+[15-Oct-2015 20:12:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/dnatabase/public_html/Controller/accountController.php on line 130
+[15-Oct-2015 20:12:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:12:49 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/dnatabase/public_html/Controller/accountController.php on line 134
+[15-Oct-2015 20:12:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 135
+[15-Oct-2015 20:13:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:13:44 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/dnatabase/public_html/Controller/accountController.php on line 134
+[15-Oct-2015 20:13:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 135
+[15-Oct-2015 20:17:30 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:17:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 128
+[15-Oct-2015 20:17:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/create_account.php on line 28
+[15-Oct-2015 20:17:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 169
+[15-Oct-2015 20:20:20 America/Chicago] PHP Warning:  Missing argument 1 for accountController::getGenes(), called in /home/dnatabase/public_html/create_account.php on line 27 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 126
+[15-Oct-2015 20:20:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 128
+[15-Oct-2015 20:20:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/create_account.php on line 28
+[15-Oct-2015 20:20:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 166
+[15-Oct-2015 20:20:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:22:13 America/Chicago] PHP Fatal error:  Cannot redeclare class userEntity in /home/dnatabase/public_html/Entity/userEntity.php on line 3
+[15-Oct-2015 20:22:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 132
+[15-Oct-2015 20:23:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 132
+[15-Oct-2015 20:23:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:23:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:24:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:24:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 131
+[15-Oct-2015 20:25:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 166
+[15-Oct-2015 20:27:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 166
+[15-Oct-2015 20:29:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 163
+[15-Oct-2015 20:29:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 132
+[15-Oct-2015 20:30:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 132
+[15-Oct-2015 20:31:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 132
+[15-Oct-2015 20:31:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 132
+[15-Oct-2015 20:31:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 166
+[15-Oct-2015 20:33:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 166
+[15-Oct-2015 20:33:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 167
+[15-Oct-2015 20:33:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 167
+[15-Oct-2015 20:43:01 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:43:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:43:29 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:43:41 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:43:43 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:43:55 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:43:57 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:46:59 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:47:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:47:10 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/Controller/accountController.php on line 162
+[15-Oct-2015 20:56:20 America/Chicago] PHP Fatal error:  Call to undefined function prin() in /home/dnatabase/public_html/Controller/accountController.php on line 127
+[15-Oct-2015 21:17:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/dnatabase/public_html/Controller/accountController.php on line 90
+[15-Oct-2015 21:46:19 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 124
+[15-Oct-2015 21:47:27 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 124
+[15-Oct-2015 21:47:29 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 124
+[15-Oct-2015 21:47:32 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 124
+[15-Oct-2015 21:47:42 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:47:55 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:48:29 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:48:31 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:49:36 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:51:33 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:53:58 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:53:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:54:52 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:54:58 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 21:55:07 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dnatabase/public_html/Controller/accountController.php on line 123
+[15-Oct-2015 22:11:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/dnatabase/public_html/create_account.php on line 34
+[15-Oct-2015 22:33:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/dnatabase/public_html/Controller/accountController.php on line 187
+[15-Oct-2015 23:13:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/dnatabase/public_html/Controller/accountController.php on line 212
+[15-Oct-2015 23:35:52 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:35:52 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:35:53 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:35:53 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:37:30 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:37:30 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:37:32 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:37:32 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:37:33 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:37:33 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:37:40 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:37:40 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:37:42 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 23 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[15-Oct-2015 23:37:42 America/Chicago] PHP Fatal error:  Class 'CoffeeModel' not found in /home/dnatabase/public_html/Controller/accountController.php on line 224
+[15-Oct-2015 23:42:21 America/Chicago] PHP Warning:  Missing argument 1 for accountController::DeleteAccount(), called in /home/dnatabase/public_html/deleteAccount.php on line 15 and defined in /home/dnatabase/public_html/Controller/accountController.php on line 222
+[16-Oct-2015 00:00:47 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/dnatabase/public_html/Controller/accountController.php on line 262
+[16-Oct-2015 00:02:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 89
+[16-Oct-2015 00:02:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 89
+[16-Oct-2015 00:56:06 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dnatabase/public_html/Controller/accountController.php on line 188
+[16-Oct-2015 01:00:20 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 19525396 bytes) in /home/dnatabase/public_html/Controller/accountController.php on line 126
+[16-Oct-2015 01:00:56 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 19101340 bytes) in /home/dnatabase/public_html/Controller/accountController.php on line 137
+[16-Oct-2015 01:11:39 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/dnatabase/public_html/Controller/accountController.php on line 133
+[16-Oct-2015 01:11:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 136
+[16-Oct-2015 01:12:18 America/Chicago] PHP Fatal error:  Call to undefined function fetch_row() in /home/dnatabase/public_html/Controller/accountController.php on line 154
+[16-Oct-2015 01:13:03 America/Chicago] PHP Fatal error:  Call to undefined function fetch_row() in /home/dnatabase/public_html/Controller/accountController.php on line 153
+[16-Oct-2015 11:54:37 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/dnatabase/public_html/Controller/accountController.php on line 146
+[16-Oct-2015 12:27:07 America/Chicago] PHP Warning:  include_once(./Template.php): failed to open stream: No such file or directory in /home/dnatabase/public_html/account.php on line 26
+[16-Oct-2015 12:27:07 America/Chicago] PHP Warning:  include_once(): Failed opening './Template.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dnatabase/public_html/account.php on line 26
+[16-Oct-2015 12:44:23 America/Chicago] PHP Warning:  include_once(../Entity/userEntity.php): failed to open stream: No such file or directory in /home/dnatabase/public_html/Controller/accountController.php on line 18
+[16-Oct-2015 12:44:23 America/Chicago] PHP Warning:  include_once(): Failed opening '../Entity/userEntity.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dnatabase/public_html/Controller/accountController.php on line 18
+[20-Oct-2015 19:59:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1203): User dnatabas_root already has more than 'max_user_connections' active connections in /home/dnatabase/public_html/Controller/accountController.php on line 87
+[20-Oct-2015 19:59:38 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/dnatabase/public_html/Controller/accountController.php on line 89
+[20-Oct-2015 19:59:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/dnatabase/public_html/Controller/accountController.php on line 90

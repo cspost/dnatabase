@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^django/(.*)$ /scgi-bin/django.cgi/$1 [QSA,L]
+AddHandler server-parsed .php
+AddHandler server-parsed .php5
+AddHandler application/x-httpd-php5 .php
