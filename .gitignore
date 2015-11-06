@@ -2,5 +2,5 @@
 !.gitignore
 !data
 !code
-!code/*
+!code/[^.]*.py
 !public_html
