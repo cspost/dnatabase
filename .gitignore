@@ -2,4 +2,5 @@
 !.gitignore
 !data
 !code
+!code/*
 !public_html
