@@ -44,7 +44,7 @@ def process_download(fl='../data/gene2pubmed'):
     curr = ''
     count = 0
     scores = dict()
-    with contextlib.nested(open(fl), open('../data/citations.csv', 'w')) as \
+    with contextlib.nested(open(fl), open('../data/citations.tsv', 'w')) as \
         (infile, outfile):
         reader = csv.reader(infile, delimiter='\t')
         writer = csv.writer(outfile, delimiter='\t')

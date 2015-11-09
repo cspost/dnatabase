@@ -12,8 +12,8 @@ import os
 import gzip
 
 
-#HOST = 'dnatabase.web.engr.illinois.edu'
-HOST = 'localhost'
+HOST = 'dnatabase.web.engr.illinois.edu'
+#HOST = 'localhost'
 PORT = '3306'
 USER = 'dnatabas_root'
 PASS = 'alphabio'
